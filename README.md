@@ -1,5 +1,9 @@
 # SMS Spam Classification Using Naive Bayes
 
+  <a href="https://sms-spam-classification-using-naive-bayes-sjwvf85xws5rdvz86bz3.streamlit.app/">
+    <img src="https://img.shields.io/badge/Launch%20App-Streamlit-orange?logo=streamlit&logoColor=white" alt="Streamlit App"/>
+  </a>
+  
 ## Dataset Credits
 This dataset is taken from the UCI Machine Learning Repository:  
 [SMS Spam Collection Dataset](https://archive.ics.uci.edu/dataset/228/sms+spam+collection)
