@@ -1,6 +1,6 @@
 # SMS Spam Classification Using Naive Bayes
 
-  Open App:
+  ### **Open App:**
   <a href="https://sms-spam-classification-using-naive-bayes-sjwvf85xws5rdvz86bz3.streamlit.app/">
     <img src="https://img.shields.io/badge/Launch%20App-Streamlit-orange?logo=streamlit&logoColor=white" alt="Streamlit App"/>
   </a>
